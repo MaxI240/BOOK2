@@ -1,3 +1,4 @@
+
 let currentPage = 1;
 
 function toggleClass(e, toggleClassName) {
